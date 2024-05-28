@@ -2,3 +2,4 @@ numpy
 streamlit==1.2.0
 steamlit_option_menu==0.3.2
 tensorflow
+matplotlib
