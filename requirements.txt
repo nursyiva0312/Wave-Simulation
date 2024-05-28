@@ -1,5 +1,5 @@
-numpy
+numpy==1.26.4
 streamlit==1.2.0
 steamlit_option_menu==0.3.2
-tensorflow
-matplotlib
+tensorflow==2.14.0
+matplotlib==3.8.0
